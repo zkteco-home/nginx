@@ -131,7 +131,9 @@ This command does not start the service.
 For instance:
 
 nginx.exe --service-install 
+
 or
+
 nginx.exe --service-install -c conf/nginx.conf
 
 Uninstalling the Service
